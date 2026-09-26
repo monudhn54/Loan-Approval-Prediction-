@@ -200,9 +200,10 @@ The model processes the information and returns the predicted loan eligibility.
 
 ## 👨‍💻 Author
 
-**Mohit Kumar Soni**
+**Monu Kumar**
 
-Engineering Student | Machine Learning & Software Development
+Engineering Student | Electronics & Communication Engineering
+
 
 ---
 
